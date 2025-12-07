@@ -45,7 +45,6 @@ canvas {
     text-shadow: 2px 2px 0 #000;
     pointer-events: auto;
 }
-    /* Button position restruction */
 #start-btn,
 #restart-btn {
     position: absolute;
